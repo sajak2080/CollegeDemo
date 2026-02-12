@@ -1,4 +1,4 @@
 # CollegeDemo
-This is my first git repository
+This is my second git repository
 <br>
 Author=Sajak Singh Khadka
